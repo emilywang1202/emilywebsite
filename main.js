@@ -49,17 +49,17 @@ const timelineData = [
 const educationData = [
     {
         school: "北京大学",
-        logo: "/images/教育经历logo/北京大学.webp",
+        logo: "./images/教育经历logo/北京大学.webp",
         degree: "临床心理学硕士"
     },
     {
         school: "纽约大学",
-        logo: "/images/教育经历logo/纽约大学.webp",
+        logo: "./images/教育经历logo/纽约大学.webp",
         degree: "公共关系与企业传播"
     },
     {
         school: "对外经贸大学",
-        logo: "/images/教育经历logo/对外经贸大学.webp",
+        logo: "./images/教育经历logo/对外经贸大学.webp",
         degree: "市场营销"
     }
 ];
@@ -106,27 +106,27 @@ const sportsData = [
 
 // 摄影作品数据
 const photographyData = [
-    { url: "/images/摄影作品/DSCF5261大.jpeg", description: "摄影作品" },
-    { url: "/images/摄影作品/DSCF5260大.jpeg", description: "摄影作品" },
-    { url: "/images/摄影作品/DSCF5254大.jpeg", description: "摄影作品" },
-    { url: "/images/摄影作品/DSCF5250大.jpeg", description: "摄影作品" },
-    { url: "/images/摄影作品/DSCF5224大.jpeg", description: "摄影作品" },
-    { url: "/images/摄影作品/DSCF5144大.jpeg", description: "摄影作品" },
-    { url: "/images/摄影作品/DSCF5117大.jpeg", description: "摄影作品" },
-    { url: "/images/摄影作品/DSCF5109大.jpeg", description: "摄影作品" },
-    { url: "/images/摄影作品/DSCF4851大.jpeg", description: "摄影作品" },
-    { url: "/images/摄影作品/DSCF4799大.jpeg", description: "摄影作品" },
-    { url: "/images/摄影作品/DSCF4793大.jpeg", description: "摄影作品" },
-    { url: "/images/摄影作品/DSCF4722大.jpeg", description: "摄影作品" },
-    { url: "/images/摄影作品/DSCF4596大.jpeg", description: "摄影作品" },
-    { url: "/images/摄影作品/DSCF4583大.jpeg", description: "摄影作品" },
-    { url: "/images/摄影作品/DSCF4575大.jpeg", description: "摄影作品" },
-    { url: "/images/摄影作品/DSCF4574大.jpeg", description: "摄影作品" },
-    { url: "/images/摄影作品/DSCF4559大.jpeg", description: "摄影作品" },
-    { url: "/images/摄影作品/IMG_6025大.jpeg", description: "摄影作品" },
-    { url: "/images/摄影作品/IMG_5605大.jpeg", description: "摄影作品" },
-    { url: "/images/摄影作品/IMG_5598大.jpeg", description: "摄影作品" },
-    { url: "/images/摄影作品/IMG_5499大.jpeg", description: "摄影作品" }
+    { url: "./images/摄影作品/DSCF5261大.jpeg", description: "摄影作品" },
+    { url: "./images/摄影作品/DSCF5260大.jpeg", description: "摄影作品" },
+    { url: "./images/摄影作品/DSCF5254大.jpeg", description: "摄影作品" },
+    { url: "./images/摄影作品/DSCF5250大.jpeg", description: "摄影作品" },
+    { url: "./images/摄影作品/DSCF5224大.jpeg", description: "摄影作品" },
+    { url: "./images/摄影作品/DSCF5144大.jpeg", description: "摄影作品" },
+    { url: "./images/摄影作品/DSCF5117大.jpeg", description: "摄影作品" },
+    { url: "./images/摄影作品/DSCF5109大.jpeg", description: "摄影作品" },
+    { url: "./images/摄影作品/DSCF4851大.jpeg", description: "摄影作品" },
+    { url: "./images/摄影作品/DSCF4799大.jpeg", description: "摄影作品" },
+    { url: "./images/摄影作品/DSCF4793大.jpeg", description: "摄影作品" },
+    { url: "./images/摄影作品/DSCF4722大.jpeg", description: "摄影作品" },
+    { url: "./images/摄影作品/DSCF4596大.jpeg", description: "摄影作品" },
+    { url: "./images/摄影作品/DSCF4583大.jpeg", description: "摄影作品" },
+    { url: "./images/摄影作品/DSCF4575大.jpeg", description: "摄影作品" },
+    { url: "./images/摄影作品/DSCF4574大.jpeg", description: "摄影作品" },
+    { url: "./images/摄影作品/DSCF4559大.jpeg", description: "摄影作品" },
+    { url: "./images/摄影作品/IMG_6025大.jpeg", description: "摄影作品" },
+    { url: "./images/摄影作品/IMG_5605大.jpeg", description: "摄影作品" },
+    { url: "./images/摄影作品/IMG_5598大.jpeg", description: "摄影作品" },
+    { url: "./images/摄影作品/IMG_5499大.jpeg", description: "摄影作品" }
 ];
 
 // 示例数据
